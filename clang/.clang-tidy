@@ -16,6 +16,7 @@ Checks: >
    -readability-identifier-length,
    -readability-function-size,
    -readability-function-cognitive-complexity
+   -readability-convert-member-functions-to-static
 
 CheckOptions:
   misc-include-cleaner.UnusedIncludes: true
