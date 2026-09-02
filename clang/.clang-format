@@ -13,6 +13,6 @@ PointerAlignment: Left
 ReferenceAlignment: Pointer
 IndentWidth: 4
 ContinuationIndentWidth: 4
-NamespaceIndentation: None
+NamespaceIndentation: All
 BreakTemplateDeclarations: Yes
 AccessModifierOffset: -4
